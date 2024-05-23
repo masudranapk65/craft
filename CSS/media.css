@@ -1,0 +1,194 @@
+@media(max-width: 575px){
+    .logo img {
+        width:60%;
+    }  
+    .top_nav_contents i{
+        font-size: 15px;
+     }
+     .top_nav_contents img{
+        width:70%;
+     }
+     .top_nav_contents ul li a {
+        font-size: 10px;
+    }
+    .carousel_content h1 {
+        font-size: 20px;
+    }
+    .carousel_content p {
+        font-size: 10px;
+    }
+    .btns button {
+        border: 1px solid #fff;
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    .carousel_img {
+        height: 70vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.owl-carousel .owl-nav button.owl-next span, .owl-nav button.owl-prev span {
+    font-size: 10px;
+}
+.search_form input {
+    background-color: #e9dcdc;
+    color: red;
+    border: none;
+    padding: 5px 10px;
+    margin: 0px auto;
+}
+.search_form label {
+    color: #fff;
+    background-color: #424242;
+    padding: 10px 10px;
+    margin: 0;
+    border: 1px;
+    font-size: 10px;
+}
+.search_form button {
+    background-color: #ffd35a;
+    color: #fff;
+    padding: 10px 10px;
+    font-size: 10px;
+}
+.category_title h1 {
+    font-size: 15px;
+}
+.catagory_item i {
+font-size: 20px;
+}
+.catagory_item p {
+    font-size: 10px;
+}
+.cotegory_border {
+    width: 90%;
+    margin: auto;
+}
+.item h2 {
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.item{
+    width: 80%;
+    margin: 10px auto;
+    background-color: #fff;
+    text-align: center;
+}
+.item:hover{
+transition: .5s all ease-in-out;
+box-shadow: 1px 1px 1px 1px #b0a3a380;
+}
+.items_3 h1 {
+    width: 60%;
+    margin: 0px auto;
+}
+.items_3 p {
+    font-size: 10px;
+    margin: 15px auto;
+}
+.item_3 {
+    width: 80%;
+    height: 40vh;
+    box-shadow: 1px 1px 10px 1px #e5dcdc63;
+    margin: 20px auto;
+    padding: 10px;
+}
+.testimonial h1 {
+    font-size: 20px;
+    width: 60%;
+    margin: 10px auto;
+}
+.testimonial p{
+    font-size: 10px;
+    width: 60%;
+    margin: 10px auto;
+}
+.test_row2 {
+    width: 90%;
+    margin: auto;
+}
+.testimonial_item_span {
+    height: 64vh;
+}
+.carousel.slide.test_carousel_content {
+    height: 45vh;
+    width: 75%;
+}
+.testimonial_item {
+    height: 60vh;
+    position: relative;
+}
+.testimonial_item .carousel-item img {
+    height: 70px;
+    width: 70px;
+}
+.testimonial_item .carousel-item h5 {
+    font-size: 12px;
+    margin: 5px 0px;
+}
+.testimonial_item .carousel-item q {
+    font-size: 9px;
+}
+.carousel-control-next {
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
+}
+.carousel-control-prev {
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
+}
+.form_content_h1 h1 {
+    font-size: 20px;
+}
+.form_content_h5 h5 {
+    font-size: 12px;
+}
+.form_content_p p {
+    font-size: 12px;
+}
+.form_content_btn button {
+    font-size: 10px;
+    padding: 3px 13px;
+    left: 60%;
+}
+.form_input input {
+    padding:0px;
+}
+
+.footer span::before {
+    bottom: 7%;
+}
+.contact1 h5 {
+    font-size: 15px;
+}
+.contact1 p {
+    font-size: 10px;
+    line-height: 25px;
+}
+.contact2_title_1 p {
+    font-size: 15px;
+}
+.contact2_content_1 p {
+    font-size: 15px;
+}
+.contact2_title h5 {
+    font-size: 10px;
+}
+.contact2_content h4 {
+    font-size: 10px;
+}
+.contact2_title_last h5 {
+    font-size: 15px;
+}
+.contact2_content_last ul li a i {
+    font-size: 15px;
+}
+.footer p {
+    padding-bottom: 10px;
+}
+}
